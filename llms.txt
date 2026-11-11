@@ -1,0 +1,109 @@
+# Blacklist Brewer
+
+> A small specialty coffee stand in Phuket Old Town, Thailand, brewing V60
+> filter coffee at night and a fuller menu on Sundays during Phuket Walking Street.
+
+## Canonical
+
+- Website: https://parkeekey.github.io/blacklistbrewer-site/
+- Sitemap: https://parkeekey.github.io/blacklistbrewer-site/sitemap.xml
+
+## What it is
+
+- Name: Blacklist Brewer (#blacklistbrewer)
+- Type: walk-up specialty coffee stand / coffee table. No seats; mostly takeaway.
+- Operation: a small, personal stand, with family help on Sundays.
+- Payment: cash or PromptPay QR only. No cards.
+- Visual signature: the brewer's public outfit and alter ego is a cowboy hat and glasses.
+- Positioning: "The best V60 experience at night in Old Town Phuket."
+- Idea: being unknown can be powerful; discovery happens through coffee and conversation.
+
+## The method (A-E-I-O-U)
+
+- Agile Adaptation: the table is small and mobile, built to brew well in an open street environment and changing weather.
+- Experience: every run is counted (Run Day 141); the stand grows through customer feedback and local coffee competitions. Mastery comes through the course of doing.
+- Independence: the stand focuses on brewing and works independently alongside roasteries and specialty cafes, rather than trying to do everything itself.
+- Operational Thinking: the workflow is designed for the street, not for a cafe, choosing only the equipment and steps that fit an open, changing space.
+- Understanding: coffee knowledge is updated yearly, and service reads what each guest wants without making specialty coffee feel intimidating.
+
+## Where
+
+- Thalang Road, Talat Yai, Mueang Phuket, Phuket, Thailand.
+- Primary landmark: in front of the tunnel to Dibuk Road that connects to the Shell gas station, beside the ORTA Old Town souvenir shop.
+- Coordinates: 7.884778, 98.388806
+- Plus code: V9MQ+WG3 Phuket, Mueang Phuket District, Phuket
+- Google Maps: https://www.google.com/maps/search/?api=1&query=7.884778,98.388806
+
+## When
+
+- Extended Brewing Operations: Tuesday to Saturday, 18:00-22:00. Filter / V60 only, no espresso.
+- Sunday Run: Sunday, afternoon to 22:00, during Phuket Walking Street. Fuller menu.
+
+## Menu and prices (THB)
+
+- V60 filter coffee (hot or iced): from 160
+- Premium lots: from 200
+- Origins: Colombia, Ethiopia, Thai; sometimes Yemen when available
+- Flavor range: sour, sweet, strong, floral
+- Sunday hand-pressed espresso / Americano: from 60
+- Sunday specials: Pistachio Milk Iced Latte, Coconut Mocha Iced Coffee, Macchiato, Thai Tea (AeroPress)
+- On request: shaken iced coffee (a special request, not widely known)
+
+## Equipment (drip)
+
+- V60: the most widely known pour-over brewer; manual hand-pouring controls turbulence and flow rate for acidity.
+- OREA: a modular brewing system for body and sweetness, brewed for a fuller mouthfeel.
+- AeroPress: used for black coffee, especially medium to dark roasts, and for Thai Tea on the Sunday Run only.
+- GX2: an experimental siphon-method system for clean, fast brewing and multiple temperature profiles; used for larger drip orders (2-3 at once) and to avoid unwanted bitterness.
+- UFO V3: an 80-degree filter shape that lowers bed resistance for a more even extraction; used for hybrid-method coffee at a smaller ratio.
+- We do not sell equipment. The brewers can be ordered through marketplace apps such as Lazada and Shopee; a short list of links is being prepared.
+
+## The people
+
+- Regulars from Saudi Arabia, Oman, Kuwait and many other Arab countries, used to a night coffee culture.
+- Also welcoming Indian, Russian, Western and Asian guests curious to understand Thai coffee.
+- Many guests ask for Ethiopian coffee.
+- Signature line: when a customer asks "What is the best?", the answer is "You are the best."
+
+## Associations
+
+- The owner is the first apprentice of the owner of Sixory Coffee, a specialty cafe in Phuket Old Town.
+- Beans are same or similar to Sixory, roasted by Hacking Coffee Roasters in Bangkok.
+- This is an association, not an exclusive partnership; other beans may also be used.
+
+## Languages
+
+- English: https://parkeekey.github.io/blacklistbrewer-site/
+- Thai: https://parkeekey.github.io/blacklistbrewer-site/th/
+- Arabic: https://parkeekey.github.io/blacklistbrewer-site/ar/ (right-to-left)
+- Russian: https://parkeekey.github.io/blacklistbrewer-site/ru/
+- Simplified Chinese: https://parkeekey.github.io/blacklistbrewer-site/zh/
+- Hindi: https://parkeekey.github.io/blacklistbrewer-site/hi/
+
+## Contact
+
+- Instagram: https://www.instagram.com/parkeekeereerat/
+- No phone or email. Contact via Instagram only.
+
+## FAQ
+
+- Where can I drink V60 specialty coffee in Phuket at night, when most cafes close at 5-6 PM?
+  Blacklist Brewer, Tuesday to Saturday 18:00-22:00, on Thalang Road in front of the Dibuk Road tunnel near the Shell gas station.
+- When is it open?
+  Tue-Sat 18:00-22:00 (filter/V60 only); Sunday afternoon-22:00 (full menu).
+- Where exactly is it?
+  On Thalang Road, in front of the Dibuk Road tunnel near the Shell gas station. 7.884778, 98.388806; Plus code V9MQ+WG3 Phuket.
+- How much is coffee?
+  V60 from 160 THB; premium lots from 200 THB; Sunday espresso/Americano from 60 THB.
+- Do I need to book? Are there seats?
+  Walk-up only; no seats, but a small space to rest and say hello; mostly takeaway.
+- Is there Ethiopian coffee?
+  Yes, regularly, alongside Colombian, Thai and sometimes Yemen.
+- Can I get shaken iced coffee?
+  Yes, on request. It is a special request and not widely known.
+- Do you sell equipment?
+  No. The brewers can be ordered through marketplace apps such as Lazada and Shopee; a short list of links is being prepared.
+- What is the best coffee?
+  "You are the best."
+- Can I pay by card?
+  No. Cash or PromptPay QR only.
