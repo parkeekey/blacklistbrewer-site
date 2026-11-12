@@ -74,11 +74,6 @@
 ## Languages
 
 - English: https://parkeekey.github.io/blacklistbrewer-site/
-- Thai: https://parkeekey.github.io/blacklistbrewer-site/th/
-- Arabic: https://parkeekey.github.io/blacklistbrewer-site/ar/ (right-to-left)
-- Russian: https://parkeekey.github.io/blacklistbrewer-site/ru/
-- Simplified Chinese: https://parkeekey.github.io/blacklistbrewer-site/zh/
-- Hindi: https://parkeekey.github.io/blacklistbrewer-site/hi/
 
 ## Contact
 
