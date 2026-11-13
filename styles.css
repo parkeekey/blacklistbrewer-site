@@ -95,6 +95,7 @@ footer{border-top:1px solid var(--line);padding:36px 0 60px;color:#8d8476;font-s
 /* Location map */
 .map-shell{position:relative;height:380px;border:1px solid var(--line);border-radius:16px;overflow:hidden;background:var(--panel)}
 .map-canvas{position:absolute;top:0;left:0;width:100%;height:100%;z-index:1;background:#171310}
+.maplibregl-canvas{filter:brightness(4) contrast(1.1) saturate(1.1)}
 .map-fallback{position:absolute;inset:0;z-index:3;display:flex;flex-direction:column;align-items:flex-start;justify-content:center;gap:8px;padding:28px;background:radial-gradient(600px 260px at 20% 10%,rgba(210,154,91,.16),transparent 70%),linear-gradient(180deg,var(--panel-2),var(--panel))}
 .map-fallback h3{margin:0;color:var(--text)}
 .map-fallback p{max-width:36ch;margin:0}
