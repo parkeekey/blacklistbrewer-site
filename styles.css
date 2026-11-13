@@ -91,3 +91,20 @@ footer{border-top:1px solid var(--line);padding:36px 0 60px;color:#8d8476;font-s
 [dir="rtl"] .quote{border-left:0;border-right:3px solid var(--accent);padding:6px 18px 6px 0}
 [dir="rtl"] .topbar nav a{margin-left:0;margin-right:18px}
 [dir="rtl"] .langbar .label{margin-right:0;margin-left:4px}
+
+/* Location map */
+.map-shell{position:relative;min-height:380px;border:1px solid var(--line);border-radius:16px;overflow:hidden;background:var(--panel)}
+.map-canvas{position:absolute;inset:0;z-index:1;background:#171310}
+.map-fallback{position:absolute;inset:0;z-index:3;display:flex;flex-direction:column;align-items:flex-start;justify-content:center;gap:8px;padding:28px;background:radial-gradient(600px 260px at 20% 10%,rgba(210,154,91,.16),transparent 70%),linear-gradient(180deg,var(--panel-2),var(--panel))}
+.map-fallback h3{margin:0;color:var(--text)}
+.map-fallback p{max-width:36ch;margin:0}
+.map-fallback .cta{margin-top:8px}
+.map-shell.is-ready .map-fallback{display:none}
+.map-overlay{position:absolute;left:14px;right:14px;bottom:14px;z-index:4;display:flex;align-items:center;justify-content:space-between;gap:14px;padding:12px 14px;border:1px solid rgba(242,236,225,.16);border-radius:12px;background:rgba(13,12,10,.86);backdrop-filter:blur(8px)}
+.map-overlay strong{display:block;color:var(--text);font-size:.95rem}
+.map-overlay span{display:block;color:var(--muted);font-size:.8rem;margin-top:2px}
+.map-overlay a{flex:0 0 auto;border:1px solid var(--accent);color:var(--accent-2);border-radius:999px;padding:8px 14px;font-weight:600;font-size:.86rem}
+.map-overlay a:hover{background:rgba(210,154,91,.12);text-decoration:none}
+.maplibregl-ctrl-group{border-radius:10px!important;overflow:hidden}
+@media(max-width:720px){.map-shell{min-height:320px}.map-overlay{left:10px;right:10px;bottom:10px;padding:10px 12px}.map-overlay span{display:none}}
+@media(prefers-reduced-motion:reduce){.map-btn{transition:none}}

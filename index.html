@@ -32,6 +32,7 @@
 <link rel="alternate" type="text/markdown" href="llms.txt">
 <link rel="sitemap" type="application/xml" href="sitemap.xml">
 <link rel="stylesheet" href="styles.css">
+<link href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" rel="stylesheet">
 
 <script type="application/ld+json">
 {
@@ -414,6 +415,22 @@
           <p class="note">If you love coffee and take the time to look, you will find us.</p>
         </div>
       </div>
+      <div class="map-shell" id="map-shell" style="margin-top:18px">
+        <div id="location-map" class="map-canvas" role="region" aria-label="Map showing the Blacklist Brewer coffee stand on Thalang Road, Phuket"></div>
+        <div class="map-fallback" id="map-fallback">
+          <p class="eyebrow">Blacklist Brewer</p>
+          <h3>Thalang Road, Phuket Old Town</h3>
+          <p>In front of the Dibuk Road tunnel near the Shell gas station.</p>
+          <p><a class="cta" href="https://www.google.com/maps/search/?api=1&amp;query=7.884778,98.388806" target="_blank" rel="noopener">Open in Google Maps</a></p>
+        </div>
+        <div class="map-overlay">
+          <div>
+            <strong>Blacklist Brewer</strong>
+            <span>Coffee stand · Thalang Road</span>
+          </div>
+          <a href="https://www.google.com/maps/dir/?api=1&amp;destination=7.884778,98.388806" target="_blank" rel="noopener">Directions</a>
+        </div>
+      </div>
     </div>
   </section>
 
@@ -483,6 +500,8 @@
 </footer>
 
 <script src="runday.js" defer></script>
+<script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+<script src="location-map.js"></script>
 
 </body>
 </html>
