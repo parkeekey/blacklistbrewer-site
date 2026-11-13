@@ -37,10 +37,17 @@
       .setPopup(popup)
       .addTo(map);
 
-    map.on("load", function () {
+    var revealed = false;
+
+    function reveal() {
+      if (revealed) return;
+      revealed = true;
       shell.classList.add("is-ready");
       marker.togglePopup();
-    });
+    }
+
+    map.once("render", reveal);
+    map.on("load", reveal);
 
     map.on("error", function (event) {
       var status = event && event.error && event.error.status;
