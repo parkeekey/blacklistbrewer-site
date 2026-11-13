@@ -6,12 +6,14 @@
 ## Canonical
 
 - Website: https://parkeekey.github.io/blacklistbrewer-site/
+- Location page: https://parkeekey.github.io/blacklistbrewer-site/location/
 - Sitemap: https://parkeekey.github.io/blacklistbrewer-site/sitemap.xml
 
 ## What it is
 
 - Name: Blacklist Brewer (#blacklistbrewer)
 - Type: walk-up specialty coffee stand / coffee table. No seats; mostly takeaway.
+- Disambiguation: a coffee stand, not a brewery, bar, or pub; not affiliated with Blacklist Brewing.
 - Operation: a small, personal stand, with family help on Sundays.
 - Payment: cash or PromptPay QR only. No cards.
 - Visual signature: the brewer's public outfit and alter ego is a cowboy hat and glasses.
@@ -33,6 +35,7 @@
 - Coordinates: 7.884778, 98.388806
 - Plus code: V9MQ+WG3 Phuket, Mueang Phuket District, Phuket
 - Google Maps: https://www.google.com/maps/search/?api=1&query=7.884778,98.388806
+- Location page: https://parkeekey.github.io/blacklistbrewer-site/location/
 
 ## When
 
