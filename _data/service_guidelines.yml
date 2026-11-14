@@ -1,0 +1,49 @@
+id: service-guidelines
+eyebrow: Etiquette
+title: Service Guidelines &amp; A Little Coffee Etiquette
+lead: A few friendly notes to help you enjoy your visit to Blacklist Brewer.
+intro: |
+  We're happy to share our coffee with you! Since we operate as a small, independent coffee stand, a few simple guidelines help us keep the experience enjoyable, fair, and smooth for everyone. Thank you for being part of it.
+groups:
+  - name: Payment &amp; Ordering
+    questions:
+      - q: What payment methods do you accept?
+        schema: false
+        a: |
+          We currently accept **cash and Thai QR payments**.
+
+          If you need cash, you'll find an ATM and a currency exchange just opposite the coffee stand. Hopefully, that makes things a little easier!
+      - q: When should I pay for my coffee?
+        a: |
+          We kindly ask for payment before we start preparing your coffee.
+
+          Once you've paid, feel free to step away and come back to the coffee table to collect your order. This helps us keep track of every order and serve everyone smoothly. Unpaid orders may need to be cancelled.
+  - name: Photography &amp; Shared Space
+    questions:
+      - q: Can I take photos or videos of the coffee experience?
+        a: |
+          Absolutely! We love seeing guests capture their coffee moments.
+
+          Just give us a little time to finish setting up first. Once the coffee table is ready for service, you're welcome to take photos and videos of the brewing experience.
+      - q: Can I use the trash bin?
+        a: |
+          Our trash bin is available for customers enjoying coffee with us.
+
+          To help us keep the area clean, we kindly ask that outside rubbish and perishable waste—such as fruit, fruit juice, or leftover food—be disposed of elsewhere. Thank you for helping us look after our little coffee space!
+  - name: Coffee &amp; Brewing
+    questions:
+      - q: Can I ask the brewer questions or make special requests?
+        a: |
+          Of course! We're always happy to talk about coffee, brewing methods, and what makes each bean special.
+
+          If you don't have a particular preference, feel free to sit back and let the brewer take care of the preparation. Trust the process, enjoy the moment, and see what the coffee has to offer. That's part of the fun of a hand-brewed coffee experience.
+      - q: How many grams of coffee do you use per serving?
+        a: |
+          Our standard serving uses **20 grams of coffee**. This is our usual brewing dose, carefully chosen to keep the recipe consistent and allow everyone to enjoy our selection of beans.
+
+          We prepare each serving with this standard amount so our coffee can be shared fairly among all guests. Thank you for understanding!
+      - q: Can I try using the coffee equipment?
+        a: |
+          We love curious coffee people! However, our brewing equipment is operated by the brewer only.
+
+          Some of our tools are delicate and require careful handling, so we keep them behind the coffee-making process rather than offering hands-on use. You're always welcome to watch, ask questions, and learn more about how we brew.

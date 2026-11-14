@@ -1,0 +1,27 @@
+{%- assign data = include.section -%}
+<section id="{{ data.id }}">
+  <div class="wrap">
+    <p class="eyebrow">{{ data.eyebrow }}</p>
+    <h2>{{ data.title }}</h2>
+    {%- if data.lead %}
+    <p class="lead">{{ data.lead }}</p>
+    {%- endif %}
+    {%- if data.intro %}
+    {{ data.intro | markdownify }}
+    {%- endif %}
+    {%- for group in data.groups %}
+    {%- if group.name %}
+    <h3>{{ group.name }}</h3>
+    {%- endif %}
+    {%- for item in group.questions %}
+    <details>
+      <summary>{{ item.q }}</summary>
+      {{ item.a | markdownify }}
+    </details>
+    {%- endfor %}
+    {%- endfor %}
+    {%- if data.outro %}
+    {{ data.outro | markdownify }}
+    {%- endif %}
+  </div>
+</section>

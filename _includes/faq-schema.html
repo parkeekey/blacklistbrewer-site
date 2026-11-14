@@ -1,0 +1,18 @@
+{%- assign files = include.files | split: "," -%}
+{%- assign first = true -%}
+{%- for file in files -%}
+  {%- assign data = site.data[file] -%}
+  {%- for group in data.groups -%}
+    {%- for item in group.questions -%}
+      {%- unless item.schema == false -%}
+      {%- unless first %},{% endunless -%}
+      {%- assign first = false -%}
+      {
+        "@type": "Question",
+        "name": {{ item.q | jsonify }},
+        "acceptedAnswer": { "@type": "Answer", "text": {{ item.a | markdownify | strip_html | normalize_whitespace | jsonify }} }
+      }
+      {%- endunless -%}
+    {%- endfor -%}
+  {%- endfor -%}
+{%- endfor -%}

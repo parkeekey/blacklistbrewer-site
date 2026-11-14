@@ -1,0 +1,46 @@
+id: faq
+eyebrow: FAQ
+title: Frequently Asked Questions
+groups:
+  - questions:
+      - q: Where can I find specialty coffee in Phuket Old Town at night?
+        a: |
+          Blacklist Brewer is a small, independent specialty coffee stand on Thalang Road in Phuket Old Town, Thailand. We serve hand-brewed V60 filter coffee Tuesday to Saturday, from 18:00 to 22:00. Look for the coffee table in front of the Dibuk Road tunnel, near the Shell gas station.
+      - q: Is Blacklist Brewer a café or a coffee shop?
+        a: |
+          No. Blacklist Brewer is a small, mobile street-side coffee stand. We focus on carefully prepared coffee rather than operating a conventional café. There is no indoor seating, and most orders are takeaway.
+      - q: What are your opening hours?
+        a: |
+          We operate in two modes:
+
+          - **Tuesday–Saturday:** 18:00–22:00. Filter coffee and V60 only.
+          - **Sunday:** Afternoon until 22:00, during Phuket Walking Street. We offer our fuller menu, including hand-pressed espresso and specialty milk-based drinks.
+      - q: What coffee can I order?
+        a: |
+          V60 pour-over coffee is available hot or iced, starting at ฿160. Premium coffee lots start at ฿200+. Coffee origins rotate and may include Ethiopia, Colombia, Thailand and Yemen, depending on availability.
+
+          Ask us what is currently on the table.
+      - q: Do you serve espresso, lattes or other drinks?
+        a: |
+          Our fuller menu is available on Sundays. It includes hand-pressed espresso, Americano, Macchiato, Pistachio Milk Iced Latte, Coconut Mocha Iced Coffee and Thai Tea brewed using an AeroPress.
+
+          Espresso and Americano start at ฿60.
+      - q: Can I watch the coffee being prepared?
+        a: |
+          Absolutely. Brewing is part of the experience. You are welcome to watch the preparation, ask questions about equipment and extraction, or talk about coffee with the brewer.
+
+          You don't need to be a coffee expert to enjoy it.
+      - q: Do I need a reservation? Can I come alone?
+        a: |
+          No reservation is required. We operate on a walk-up basis, and solo visitors are welcome. Come by, order a coffee and enjoy a little conversation.
+      - q: Where exactly is the coffee stand?
+        a: |
+          We are on Thalang Road, Phuket Old Town, beside the ORTA Old Town souvenir shop, in front of the Dibuk Road tunnel near the Shell gas station.
+
+          Google Maps: [7.884778, 98.388806](https://www.google.com/maps/search/?api=1&query=7.884778,98.388806)
+      - q: What payment methods do you accept?
+        a: |
+          We accept cash and PromptPay QR payments. Credit cards and other electronic card payments are not currently accepted.
+      - q: Do you sell coffee brewing equipment?
+        a: |
+          No. Our equipment is used for preparing coffee at the stand, not for retail sale. We are happy to explain the brewers and techniques we use.

@@ -1,0 +1,12 @@
+title: Blacklist Brewer
+exclude:
+  - BRIEF.md
+  - README.md
+  - coffee.md
+  - evidence.md
+  - identity.md
+  - location.md
+  - LOCATION.private.md
+  - DRAFT-qa.private.md
+  - public-site
+  - sensory-card
