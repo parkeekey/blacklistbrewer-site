@@ -83,23 +83,23 @@
 
 ## FAQ
 
-- Where can I drink V60 specialty coffee in Phuket at night, when most cafes close at 5-6 PM?
-  Blacklist Brewer, Tuesday to Saturday 18:00-22:00, on Thalang Road in front of the Dibuk Road tunnel near the Shell gas station.
-- When is it open?
-  Tue-Sat 18:00-22:00 (filter/V60 only); Sunday afternoon-22:00 (full menu).
-- Where exactly is it?
-  On Thalang Road, in front of the Dibuk Road tunnel near the Shell gas station. 7.884778, 98.388806; Plus code V9MQ+WG3 Phuket.
-- How much is coffee?
-  V60 from 160 THB; premium lots from 200 THB; Sunday espresso/Americano from 60 THB.
-- Do I need to book? Are there seats?
-  Walk-up only; no seats, but a small space to rest and say hello; mostly takeaway.
-- Is there Ethiopian coffee?
-  Yes, regularly, alongside Colombian, Thai and sometimes Yemen.
-- Can I get shaken iced coffee?
-  Yes, on request. It is a special request and not widely known.
-- Do you sell equipment?
-  No. The brewers can be ordered through marketplace apps such as Lazada and Shopee; a short list of links is being prepared.
-- What is the best coffee?
-  "You are the best."
-- Can I pay by card?
-  No. Cash or PromptPay QR only.
+- Where can I find specialty coffee in Phuket Old Town at night?
+  Blacklist Brewer, on Thalang Road in Phuket Old Town. V60 filter coffee Tuesday to Saturday, 18:00-22:00, in front of the Dibuk Road tunnel near the Shell gas station.
+- Is Blacklist Brewer a cafe or a coffee shop?
+  No. It is a small, mobile street-side coffee stand focused on carefully prepared coffee. No indoor seating; most orders are takeaway.
+- What are the opening hours?
+  Tuesday-Saturday 18:00-22:00 (filter coffee and V60 only); Sunday afternoon-22:00 during Phuket Walking Street (fuller menu including hand-pressed espresso and specialty milk-based drinks).
+- What coffee can I order?
+  V60 pour-over hot or iced from 160 THB; premium lots from 200 THB and above. Rotating origins may include Ethiopia, Colombia, Thailand and Yemen. Ask what is currently on the table.
+- Do you serve espresso, lattes or other drinks?
+  Fuller menu on Sundays: hand-pressed espresso, Americano, Macchiato, Pistachio Milk Iced Latte, Coconut Mocha Iced Coffee and Thai Tea via AeroPress. Espresso and Americano from 60 THB.
+- Can I watch the coffee being prepared?
+  Yes. Brewing is part of the experience; guests can watch, ask about equipment and extraction, and talk about coffee. No expertise needed.
+- Do I need a reservation? Can I come alone?
+  No reservation; walk-up only. Solo visitors are welcome.
+- Where exactly is the coffee stand?
+  Thalang Road, Phuket Old Town, beside the ORTA Old Town souvenir shop, in front of the Dibuk Road tunnel near the Shell gas station. Google Maps: https://www.google.com/maps/search/?api=1&query=7.884778,98.388806
+- What payment methods do you accept?
+  Cash and PromptPay QR only. Credit cards and other electronic card payments are not accepted.
+- Do you sell coffee brewing equipment?
+  No. The equipment is used for preparing coffee at the stand, not for retail sale; the brewer is happy to explain the brewers and techniques.
